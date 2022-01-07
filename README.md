@@ -21,3 +21,4 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 <p align=center>Voici un lien pour tester le jeu:
 
   <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
+![rock](https://user-images.githubusercontent.com/27373255/148592932-032a119f-697e-46fc-8cf3-14059c81ef52.png)
